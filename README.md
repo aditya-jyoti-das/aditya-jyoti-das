@@ -1,11 +1,11 @@
 <h1 align="center">Hi 👋, I'm Aditya Jyoti Das</h1>
-<h3 align="center">A passionate NLP and ML enthusiast from India</h3>
+<h3 align="center">A passionate DS and ML enthusiast from India</h3>
 
-- 🔭 I’m currently working on **document summarizer**
+- 🔭 I’m currently working on **Credit risk analytics**
 
-- 🌱 I’m currently learning **NLP, Data science, ML**
+- 🌱 I’m currently learning **Data science, ML**
 
-- 💬 Ask me about **NLP,ML**
+- 💬 Ask me about **DS,ML**
 
 - 📫 How to reach me **www.linkedin.com/in/aditya-das-994b27271**
 
